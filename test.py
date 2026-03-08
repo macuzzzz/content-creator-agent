@@ -1,0 +1,2 @@
+import content_agent
+print(content_agent.root_agent)
